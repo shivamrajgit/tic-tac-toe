@@ -1,5 +1,5 @@
 #TIC TAC TOE MADE BY SHIVAM
-
+#This Method is Bad and very old. I updated my logic in the js project.
 
 board=[["_","_","_"],["_","_","_"],["_","_","_"]]
 def choices():
